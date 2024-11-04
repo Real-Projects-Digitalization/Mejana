@@ -7,7 +7,7 @@
 - [ ] Mehmed: REgulators
 - [ ] Jan: Suppliers
 - [ ] Nadja: Stakeholders
-- [ ] Marco: Competitors / Upload Interviewbogen Wiki
+- [ ] Marco: Competitors / [x] Upload Interviewbogen Wiki
 - [ ] Christian: Collaborators / 5x W ins wiki
 
 ## Sonstiges
