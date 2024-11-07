@@ -5,3 +5,6 @@
 - Compare to market opponents like apple > strong competition
 - Define untackled problems
 
+- Restructure Interview questions --> cluster
+- Justin Wilcox customer discovery
+
