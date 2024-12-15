@@ -45,7 +45,7 @@ THE MEJANA app is available for Android and iOS. The app can be purchased from t
 
 ## Value
 The MEJANA app is your everyday companion for more safety within your daily life. We are constantly working on improving our service and offer you innovative applications from a single source.
-Feedback and constructive criticism are always welcome and help us to provide you with a better.
+Feedback and constructive criticism are always welcome and help us to provide you with a better product and service.
 
 
 
