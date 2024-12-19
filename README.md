@@ -17,14 +17,17 @@ It is possible to share your own location with people from the contact list. The
 - **SOS function**
   
 MEJANA can automatically detect emergencies and also differentiate between different types of emergencies. The smartphone's sensors and the acoustic transmitter are used for this purpose. In conjunction with artificial intelligence, a decision is made by the AI. When an emergency call is sent, brief information about the situation and the exact location are also provided. Other users of the app are warned at the same time if they are in the immediate vicinity.
+e.g.: motion sensor detects an impact / integrated microphone detecs person in dangerous (AI-based analysis in real-time); different types of emergencys: robbery, fall / impact, car accident, personal injury,...
 
 - **conversation with the AI called MEJANA**
   
 MEJANA listens to voice commands of all kinds and can also confidently answer complex questions. For example, when traveling abroad, it can provide precise instructions on what to do and warn of possible dangers. It is primarily trained to answer questions that relate to safety, but can answer any sensible questions. MEJANA is therefore an intelligent companion in everyday life that can provide advice on safety aspects.
+e.g.: asking MEJANA how to behave in a specific country in order to avoid problems with inhabitants and securtiy forces on-site; asking MEJANA for advice in order to minimize personal risk of beeing victim of crimes; in dangerous siuations MEJANA can give you directions in order to leave fast the danger zone
 
 - **supply of specific information**
   
 Specific information is provided. Important information such as warnings is displayed directly and its effect can be enhanced by acoustics and vibrations. The information can be in the form of advice, recommendations, warnings or even reassuring. MEJANA prioritizes the information provided independently.
+e.g.: terrorist attack close to users' positions; occurrence of thunderstorms; information in terms of trips abroad (how to behave, cultural aspects, avoiding dangerous situations,...); dangerous abodes depending on time,...
 
 ## Requirements
 - **GPS access**
@@ -46,6 +49,8 @@ THE MEJANA app is available for Android and iOS. The app can be purchased from t
 ## Value
 The MEJANA app is your everyday companion for more safety within your daily life. We are constantly working on improving our service and offer you innovative applications from a single source.
 Feedback and constructive criticism are always welcome and help us to provide you with a better product and service.
+
+You can throw at least some of your worries and fears overboard and increase your quality of life while feeling much more safer and knowing that there is valuable support in case of an emergency.
 
 
 
