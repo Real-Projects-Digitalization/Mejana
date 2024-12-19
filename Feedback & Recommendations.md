@@ -14,3 +14,7 @@
 - conduct interviews again
 - more specific focus into safety issus
 - what safety features are customers willing to pay for
+
+## Concerning the final presentation
+- more specific in terms of application functions
+  
